@@ -1,0 +1,194 @@
+
+{
+
+    
+    "sections":[
+        {
+            "file":"creative_template/sections/navbar.html",
+            "content":{
+                    "id":"mainNav",
+                    "href":"#page-top",
+                    "heading":"Start Bootstrap",
+                    "items":[
+                        {
+                            "href":"#about",
+                            "text":"About"
+                        },
+                        {
+                            "href":"#services",
+                            "text":"Services"
+                        },
+                        {
+                            "href":"#portfolio",
+                            "text":"Portfolio"
+                        }
+                    ]
+
+
+            }
+        },
+        {
+            "file":"creative_template/sections/masthead.html",
+            "content":{
+                "heading_class":"text-uppercase text-white font-weight-bold",
+                "heading_text":"Your Favorite Source of Free Bootstrap Themes",
+                "sub_heading_class":"text-white-75 font-weight-light mb-5",
+                "sub_heading_text":"Start Bootstrap can help you build better websites using the Bootstrap framework! Just download a theme and start customizing, no strings attached!",
+                "btn_class":"btn btn-primary btn-xl js-scroll-trigger",
+                "btn_href":"#about",
+                "btn_text":"Find Out More"
+            }
+        },
+        {
+            "file":"creative_template/sections/about.html",
+            "content":{
+                "id":"about",
+                "heading_class":"text-white mt-0",
+                "heading_text":"We've got what you need!",
+                "sub_heading_class":"text-white-50 mb-4",
+                "sub_heading_text":"Start Bootstrap has everything you need to get your new website up and running in no time! Choose one of our open source, free to download, and easy to use themes! No strings attached!",
+                "btn_class":"btn btn-light btn-xl js-scroll-trigger",
+                "btn_href":"#services",
+                "btn_text":"Get Started!"
+            }
+        },
+
+        {
+            "file":"creative_template/sections/services.html",
+            "content":{
+                "id":"services",
+                "heading_class":"text-center mt-0",
+                "heading_text":"At Your Service",
+                "services":[
+                    {
+                        "i_class":"fas fa-4x fa-gem text-primary mb-4",
+                        "title":"Sturdy Themes",
+                        "description":"Our themes are updated regularly to keep them bug free!"
+                    },
+                    {
+                        "i_class":"fas fa-4x fa-laptop-code text-primary mb-4",
+                        "title":"Up to Date",
+                        "description":"All dependencies are kept current to keep things fresh."
+                    },
+                    {
+                        "i_class":"fas fa-4x fa-globe text-primary mb-4",
+                        "title":"Ready to Publish",
+                        "description":"You can use this design as is, or you can make changes!"
+                    },
+                    {
+                        "i_class":"fas fa-4x fa-heart text-primary mb-4",
+                        "title":"Made with Love",
+                        "description":"Is it really open source if it's not made with love?"
+                    }
+                ]
+
+
+            }
+        },
+        {
+            "file":"creative_template/sections/portfolio.html",
+            "content":{
+                "id":"portfolio",
+                "projects":[
+                    {
+                        "img":"creative_template/assets/img/portfolio/fullsize/1.jpg",
+                        "thumbnail":"creative_template/assets/img/portfolio/thumbnails/1.jpg",
+                        "div_class":"portfolio-box-caption",
+                        "category_class":"project-category text-white-50",
+                        "category_name":"Category",
+                        "project_class":"project-name",
+                        "project_name":"Project Name"
+
+                    },
+                    {
+                        "img":"creative_template/assets/img/portfolio/fullsize/2.jpg",
+                        "thumbnail":"creative_template/assets/img/portfolio/thumbnails/2.jpg",
+                        "div_class":"portfolio-box-caption",
+                        "category_class":"project-category text-white-50",
+                        "category_name":"Category",
+                        "project_class":"project-name",
+                        "project_name":"Project Name"
+
+
+                    },
+                    {
+                        "img":"creative_template/assets/img/portfolio/fullsize/3.jpg",
+                        "thumbnail":"creative_template/assets/img/portfolio/thumbnails/3.jpg",
+                        "div_class":"portfolio-box-caption",
+                        "category_class":"project-category text-white-50",
+                        "category_name":"Category",
+                        "project_class":"project-name",
+                        "project_name":"Project Name"
+
+                    },
+                    {
+                        "img":"creative_template/assets/img/portfolio/fullsize/4.jpg",
+                        "thumbnail":"creative_template/assets/img/portfolio/thumbnails/4.jpg",
+                        "div_class":"portfolio-box-caption",
+                        "category_class":"project-category text-white-50",
+                        "category_name":"Category",
+                        "project_class":"project-name",
+                        "project_name":"Project Name"
+
+
+                    },
+                    {
+                        "img":"creative_template/assets/img/portfolio/fullsize/5.jpg",
+                        "thumbnail":"creative_template/assets/img/portfolio/thumbnails/5.jpg",
+                        "div_class":"portfolio-box-caption",
+                        "category_class":"project-category text-white-50",
+                        "category_name":"Category",
+                        "project_class":"project-name",
+                        "project_name":"Project Name"
+
+
+                    },
+                    {
+                        "img":"creative_template/assets/img/portfolio/fullsize/6.jpg",
+                        "thumbnail":"creative_template/assets/img/portfolio/thumbnails/6.jpg",
+                        "div_class":"portfolio-box-caption p-3",
+                        "category_class":"project-category text-white-50",
+                        "category_name":"Category",
+                        "project_class":"project-name",
+                        "project_name":"Project Name"
+
+
+                    }
+                ]
+            }
+        },
+        {
+            "file":"creative_template/sections/call_to_action.html",
+            "content":{
+                "heading":"Free Download at Start Bootstrap!",
+                "btn_class":"btn btn-light btn-xl",
+                "href":"https://startbootstrap.com/theme/creative/",
+                "btn_text":"Download Now!"
+            }
+        },
+        {
+            "file":"creative_template/sections/contact.html",
+            "content":{
+                "id":"contact",
+                "heading_class":"mt-0",
+                "heading_text":"Let's Get In Touch!",
+                "sub_heading_class":"text-muted mb-5",
+                "sub_heading_text":"Ready to start your next project with us? Give us a call or send us an email and we will get back to you as soon as possible!",
+                "tel_i_class":"fas fa-phone fa-3x mb-3 text-muted",
+                "tel":"+1 (555) 123-4567",
+                "email_i_class":"fas fa-envelope fa-3x mb-3 text-muted",
+                "email_href":"mailto:contact@yourwebsite.com",
+                "email":"contact@yourwebsite.com"
+
+            }
+        },
+        {
+            "file":"creative_template/sections/footer.html",
+            "content":{
+                "div_class":"small text-center text-muted",
+                "footer_text":"Copyright © 2020 - Start Bootstrap"
+            }
+        }
+
+    ]
+}
