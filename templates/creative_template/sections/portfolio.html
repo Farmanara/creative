@@ -6,7 +6,7 @@
                     {%for project in section.content.projects%}
                     <div class="col-lg-4 col-sm-6">
                         <a class="portfolio-box" href="{%static project.img %}">
-                            <img class="img-fluid" src="{%static project.thumbnail %}" alt="" />
+                            <img class="img-fluid" src="{%static project.thumbnail %}" alt="{{project.img_alt}}" />
                             <div class="{{project.div_class}}">
                                 <div class="{{project.category_class}}">{{project.category_name}}</div>
                                 <div class="{{project.project_class}}">{{project.project_name}}</div>
