@@ -1,5 +1,14 @@
 
 {
+    "head":{
+        "meta":{
+            "description":"",
+            "author":""
+        },
+        "title":"Creative - Start Bootstrap Theme",
+        "favicon":"creative_template/assets/img/favicon.ico"
+
+    },
 
     
     "sections":[
