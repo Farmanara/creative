@@ -30,6 +30,10 @@
                         {
                             "href":"#portfolio",
                             "text":"Portfolio"
+                        },
+                        {
+                            "href":"#contact",
+                            "text":"Contact"
                         }
                     ]
 
